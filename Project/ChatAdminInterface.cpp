@@ -6,3 +6,7 @@ int ChatAdminInterface::run()
 {
     return 0;
 }
+
+void ChatAdminInterface::newFunctional()
+{
+}

@@ -9,4 +9,6 @@ public:
     ChatAdminInterface(DB *_db);
     ~ChatAdminInterface() = default;
     int run() override;
+
+    void newFunctional();
 };
