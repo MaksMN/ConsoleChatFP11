@@ -15,4 +15,6 @@ public:
     int registration();
     int login();
     int chat();
+
+    void newMethod();
 };

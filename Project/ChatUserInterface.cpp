@@ -116,3 +116,10 @@ int ChatUserInterface::chat()
     std::cout << "Чат в разработке. До свидания." << std::endl;
     return 1;
 }
+
+void ChatUserInterface::newMethod()
+{
+    /**
+     * здесь какой-то код
+    */
+}
